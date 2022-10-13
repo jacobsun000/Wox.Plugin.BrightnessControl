@@ -1,0 +1,12 @@
+{
+    "ID": "47780DBB49FA11ED864D782B46C527B7",
+    "ActionKeyword": "bri",
+    "Name": "Brightness Control",
+    "Description": "Control the brightness of monitors",
+    "Author": "JacobSun",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "http://www.wox.one",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
